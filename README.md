@@ -5,3 +5,6 @@ opened in vscode and added testcase for login and navigation in it  ,
 write command " npx cypress open " to run from root    ,
 It will open browser and ask for choice of browser , i selected edge browser    ,
 it opened e2e directory and loaded files of login and navigation test and when click it executes and shows errors or pass testcase
+
+Task #2
+used custom commands 
